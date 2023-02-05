@@ -130,3 +130,12 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 </p>
 <br />
 
+<p>
+<img src="https://imgur.com/xdFF2F3.png" height="80%" width="80%" alt="Close Ticket Two"/>
+</p>
+<p>
+<b>The high priority ticket is assigned to helpdesk agent Wigburg Boulder, so let's log into his account and close out the ticket. We'll add a note about the actions that were taken to solve the issue in the Internal Note box. The Ticket Status should be changed to Resolved.</b>
+</p>
+<br />
+
+
