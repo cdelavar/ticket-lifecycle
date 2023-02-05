@@ -67,6 +67,14 @@ Login to osTicket as a helpdesk agent to see the user created tickets. In this c
 <br />
 
 <p>
+<img src="https://imgur.com/sJkS6GR.png" height="80%" width="80%" alt="Update Priority"/>
+</p>
+<p>
+Let's open the ticket with the issue "Entire Mobile Banking Is Down". The Priority level for the ticket is set to Normal by default. Click on Priority and change the Priority Level to "Emergency". The issue for this ticket is critical and will negatively impact the business if left unfixed for too long.
+</p>
+<br />
+
+<p>
 <img src="https://imgur.com/nr6IH9U.png" height="80%" width="80%" alt="Assign Agent"/>
 </p>
 <p>
