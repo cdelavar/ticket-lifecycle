@@ -30,6 +30,38 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
+<img src="https://imgur.com/7y7uXs8.png" height="80%" width="80%" alt="Support Center"/>
+</p>
+<p>
+End users can open tickets with the Suport Center home page. Navigate to http://localhost/osTicket/ and click on Open a New Ticket
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/i5G9fHb.png" height="80%" width="80%" alt="Create New Ticket  "/>
+</p>
+<p>
+Let's create some tickets as end users, for us to solve as the help desk professional. A user will fill out the new ticket form and include their name, email address, choose a help topic from the drop down menu, and write a summary of the problem. They could also attach any images that could help the agent solve the problem.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
