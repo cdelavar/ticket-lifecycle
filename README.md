@@ -99,7 +99,7 @@ The Department assigned to this ticket might not be equipped to handle this issu
 <br />
 
 <p>
-<img src="https://imgur.com/4h1dcX9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/4h1dcX9.png" height="80%" width="80%" alt="Ticket Updates Log"/>
 </p>
 <p>
 Whenever a change is made to the ticket, a log entry will be created in the ticket with details about each update.
@@ -107,17 +107,26 @@ Whenever a change is made to the ticket, a log entry will be created in the tick
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/uR1lqpG.png" height="80%" width="80%" alt="Close Ticket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When an issue has been resolved, a ticket can be closed by updating the ticket status to "Resolved" and clicking Post Reply. 
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/UXVns1z.png" height="80%" width="80%" alt="Closed Ticket Tab"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Once the ticket status has been updated, it will be removed from the open ticket queue and will now only be viewable in the Closed ticket tab.
 </p>
 <br />
+
+<p>
+<img src="https://imgur.com/Osg7jVq.png" height="80%" width="80%" alt="Update Ticket Two"/>
+</p>
+<p>
+Let's open the "Entire Accounting Dept Adobe Reader Not Working" ticket and change the Priority Level. This doesn't seem to be an emergency, but if everyone in the accounting department can't use their Adobe Reader and they need it to do their job, this would be a high priority to troubleshoot. We'll change the Priority Level to High. Let's also change the SLA to SEV-B which would require a 24/7 response within 4 hours. Lastly, assign the ticket to a helpdesk agent. 
+</p>
+<br />
+
