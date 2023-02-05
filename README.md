@@ -46,10 +46,39 @@ Let's create some tickets as end users, for us to solve as the help desk profess
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/RGTfDDG.png" height="80%" width="80%" alt="Filled out ticket"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+When the form is filled out, click Create Ticket, then create a couple more.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/FKZAOts.png" height="80%" width="80%" alt="Filled out ticket two"/>
+</p>
+<p>
+
+<p>
+<img src="https://imgur.com/KFBnKV2.png" height="80%" width="80%" alt="Agent Panel Open Tickets"/>
+</p>
+<p>
+Login to osTicket as a helpdesk agent to see the user created tickets. In this case, the tickets have been configured to automatically appear in the open ticket inbox of any agent in the Support Department. The tickets are not assigned to any agents when they are created. A helpdesk agent, or queue manager, will have to go through each ticket and assign them to agents and update their priorities. 
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/nr6IH9U.png" height="80%" width="80%" alt="Assign Agent"/>
+</p>
+<p>
+Click on Assigned To and assign an Agent to the ticket.
+</p>
+<br />
+
+<p>
+<img src="https://imgur.com/IliaFV8.png" height="80%" width="80%" alt="Update SLA"/>
+</p>
+<p>
+The SLA Plan is currently set to Default SLA, which is non-critical. Update the SLA Plan to SEV-A for this emergency issue ticket.
 </p>
 <br />
 
