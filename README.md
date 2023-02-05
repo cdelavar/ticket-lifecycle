@@ -33,7 +33,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://imgur.com/7y7uXs8.png" height="80%" width="80%" alt="Support Center"/>
 </p>
 <p>
-End users can open tickets with the Suport Center home page. Navigate to http://localhost/osTicket/ and click on Open a New Ticket
+<b>End users can open tickets with the Suport Center home page. Navigate to http://localhost/osTicket/ and click on Open a New Ticket.</b>
 </p>
 <br />
 
@@ -41,7 +41,7 @@ End users can open tickets with the Suport Center home page. Navigate to http://
 <img src="https://imgur.com/i5G9fHb.png" height="80%" width="80%" alt="Create New Ticket  "/>
 </p>
 <p>
-Let's create some tickets as end users, for us to solve as the help desk professional. A user will fill out the new ticket form and include their name, email address, choose a help topic from the drop down menu, and write a summary of the problem. They could also attach any images that could help the agent solve the problem.
+<b>Let's create some tickets as end users, for us to solve as the help desk professional. A user will fill out the new ticket form and include their name, email address, choose a help topic from the drop down menu, and write a summary of the problem. They could also attach any images that could help the agent solve the problem.</b>
 </p>
 <br />
 
@@ -49,7 +49,7 @@ Let's create some tickets as end users, for us to solve as the help desk profess
 <img src="https://imgur.com/RGTfDDG.png" height="80%" width="80%" alt="Filled out ticket"/>
 </p>
 <p>
-When the form is filled out, click Create Ticket, then create a couple more.
+<b>When the form is filled out, click Create Ticket, then create a couple more.</b>
 </p>
 <br />
 
@@ -62,7 +62,7 @@ When the form is filled out, click Create Ticket, then create a couple more.
 <img src="https://imgur.com/KFBnKV2.png" height="80%" width="80%" alt="Agent Panel Open Tickets"/>
 </p>
 <p>
-Login to osTicket as a helpdesk agent to see the user created tickets. In this case, the tickets have been configured to automatically appear in the open ticket inbox of any agent in the Support Department. The tickets are not assigned to any agents when they are created. A helpdesk agent, or queue manager, will have to go through each ticket and assign them to agents and update their priorities. 
+<b>Login to osTicket as a helpdesk agent to see the user created tickets. In this case, the tickets have been configured to automatically appear in the open ticket inbox of any agent in the Support Department. The tickets are not assigned to any agents when they are created. A helpdesk agent, or queue manager, will have to go through each ticket and assign them to agents and update their priorities. </b>
 </p>
 <br />
 
@@ -70,7 +70,7 @@ Login to osTicket as a helpdesk agent to see the user created tickets. In this c
 <img src="https://imgur.com/sJkS6GR.png" height="80%" width="80%" alt="Update Priority"/>
 </p>
 <p>
-Let's open the ticket with the issue "Entire Mobile Banking Is Down". The Priority level for the ticket is set to Normal by default. Click on Priority and change the Priority Level to "Emergency". The issue for this ticket is critical and will negatively impact the business if left unfixed for too long.
+<b>Let's open the ticket with the issue "Entire Mobile Banking Is Down". The Priority level for the ticket is set to Normal by default. Click on Priority and change the Priority Level to "Emergency". The issue for this ticket is critical and will negatively impact the business if left unfixed for too long.</b>
 </p>
 <br />
 
@@ -78,7 +78,7 @@ Let's open the ticket with the issue "Entire Mobile Banking Is Down". The Priori
 <img src="https://imgur.com/nr6IH9U.png" height="80%" width="80%" alt="Assign Agent"/>
 </p>
 <p>
-Click on Assigned To and assign an Agent to the ticket.
+<b>Click on Assigned To and assign an Agent to the ticket.</b>
 </p>
 <br />
 
@@ -86,7 +86,7 @@ Click on Assigned To and assign an Agent to the ticket.
 <img src="https://imgur.com/IliaFV8.png" height="80%" width="80%" alt="Update SLA"/>
 </p>
 <p>
-The SLA Plan is currently set to Default SLA, which is non-critical. Update the SLA Plan to SEV-A for this emergency issue ticket.
+<b>The SLA Plan is currently set to Default SLA, which is non-critical. Update the SLA Plan to SEV-A for this emergency issue ticket.</b>
 </p>
 <br />
 
@@ -94,7 +94,7 @@ The SLA Plan is currently set to Default SLA, which is non-critical. Update the 
 <img src="https://imgur.com/a62XhIh.png" height="80%" width="80%" alt="Update Department"/>
 </p>
 <p>
-The Department assigned to this ticket might not be equipped to handle this issue. This sounds like a system issue that needs to be handled by the system administrators. Click on the Department and change from Support to System Administrators.
+<b>The Department assigned to this ticket might not be equipped to handle this issue. This sounds like a system issue that needs to be handled by the system administrators. Click on the Department and change from Support to System Administrators.</b>
 </p>
 <br />
 
@@ -102,7 +102,7 @@ The Department assigned to this ticket might not be equipped to handle this issu
 <img src="https://imgur.com/4h1dcX9.png" height="80%" width="80%" alt="Ticket Updates Log"/>
 </p>
 <p>
-Whenever a change is made to the ticket, a log entry will be created in the ticket with details about each update.
+<b>Whenever a change is made to the ticket, a log entry will be created in the ticket with details about each update.</b>
 </p>
 <br />
 
@@ -110,7 +110,7 @@ Whenever a change is made to the ticket, a log entry will be created in the tick
 <img src="https://imgur.com/uR1lqpG.png" height="80%" width="80%" alt="Close Ticket"/>
 </p>
 <p>
-When an issue has been resolved, a ticket can be closed by updating the ticket status to "Resolved" and clicking Post Reply. 
+<b>When an issue has been resolved, a ticket can be closed by updating the ticket status to "Resolved" and clicking Post Reply. </b>
 </p>
 <br />
 
@@ -118,7 +118,7 @@ When an issue has been resolved, a ticket can be closed by updating the ticket s
 <img src="https://imgur.com/UXVns1z.png" height="80%" width="80%" alt="Closed Ticket Tab"/>
 </p>
 <p>
-Once the ticket status has been updated, it will be removed from the open ticket queue and will now only be viewable in the Closed ticket tab.
+<b>Once the ticket status has been updated, it will be removed from the open ticket queue and will now only be viewable in the Closed ticket tab.</b>
 </p>
 <br />
 
@@ -126,7 +126,7 @@ Once the ticket status has been updated, it will be removed from the open ticket
 <img src="https://imgur.com/Osg7jVq.png" height="80%" width="80%" alt="Update Ticket Two"/>
 </p>
 <p>
-Let's open the "Entire Accounting Dept Adobe Reader Not Working" ticket and change the Priority Level. This doesn't seem to be an emergency, but if everyone in the accounting department can't use their Adobe Reader and they need it to do their job, this would be a high priority to troubleshoot. We'll change the Priority Level to High. Let's also change the SLA to SEV-B which would require a 24/7 response within 4 hours. Lastly, assign the ticket to a helpdesk agent. 
+<b>Let's open the "Entire Accounting Dept Adobe Reader Not Working" ticket and change the Priority Level. This doesn't seem to be an emergency, but if everyone in the accounting department can't use their Adobe Reader and they need it to do their job, this would be a high priority to troubleshoot. We'll change the Priority Level to High. Let's also change the SLA to SEV-B which would require a 24/7 response within 4 hours. Lastly, assign the ticket to a helpdesk agent.</b> 
 </p>
 <br />
 
