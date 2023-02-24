@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.For this lab, I'm using a virtual machine I created in Azure.<br />
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket. For this lab, I'm using a virtual machine I created in Azure.<br />
 
 
 <h2>Video Demonstration</h2>
